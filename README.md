@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <a href="https://sahansilvadev.github.io/PDFeditor/"><strong>🌐 Open PDF Studio online »</strong></a>
+</p>
+
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white" />
@@ -81,6 +85,10 @@ Open http://localhost:5173 in your browser.
 | `npm run preview` | Serve the production build locally |
 
 The production build in `dist/` is a static site. It can be hosted on GitHub Pages, Netlify, Vercel or any web server.
+
+### Deployment
+
+Every push to `main` is built and published to GitHub Pages automatically by [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
 
 ## ⌨️ Keyboard shortcuts
 
